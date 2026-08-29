@@ -1,5 +1,1 @@
-python-telegram-bot==20.7
-openai==1.30.0
-flask==3.0.0
-requests==2.31.0
-python-dotenv==1.0.0
+xd
