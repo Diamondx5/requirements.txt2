@@ -1,0 +1,7 @@
+pip list 
+python-telegram-bot==20.11.1
+mistralai==2.5.2
+python-dotenv==1.0.0
+pip install -r requirements.txt
+pip install python-dotenv
+pip install python-telegram-bot mistralai python-dotenv
